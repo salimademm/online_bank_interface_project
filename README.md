@@ -6,8 +6,11 @@ A Fictional & Minimalist Bank
 👉Log-in credentials👈
 
 username: sa | password: 1111
+
 username: jd | password: 2222
+
 username: stw | password: 3333
+
 username: js | password: 4444
 
 The project is a Fictional & Online Bank.
